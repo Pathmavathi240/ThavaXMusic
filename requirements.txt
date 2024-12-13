@@ -10,6 +10,7 @@ gitpython
 git+https://github.com/AsmSafone/SafoneAPI
 hachoir
 heroku3
+httpx==0.27.2
 lyricsgenius
 motor
 numpy
