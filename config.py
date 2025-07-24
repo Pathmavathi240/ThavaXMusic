@@ -24,7 +24,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
 OWNER_ID = int(getenv("OWNER_ID", "1471469091"))
 
-START_STICKER_ID = getenv("START_STICKER_ID", "CAACAgUAAxkBAAIYJ2XDYrt9C1aT2TMAAVbvhu7GQt4pxQACOg4AAs7jGVZZ_1ODkCxOcx4E")
+START_STICKER_ID = getenv("START_STICKER_ID", "https://files.catbox.moe/nr3dvm.mp4")
 
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Thava X Music")
 
