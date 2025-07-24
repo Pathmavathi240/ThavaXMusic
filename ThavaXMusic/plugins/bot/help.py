@@ -1,7 +1,7 @@
 from typing import Union
 
 from pyrogram import filters, types
-from pyrogram.types import InlineKeyboardMarkup, Message
+from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 
 from ThavaXMusic import app
 from ThavaXMusic.utils import first_page, second_page
