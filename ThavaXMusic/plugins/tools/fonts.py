@@ -1,8 +1,8 @@
 from pyrogram import  filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from DeadlineTech.utils.purvi_font import Fonts
-from DeadlineTech import app
+from ThavaXMusic.utils.purvi_font import Fonts
+from ThavaXMusic import app
 
 @app.on_message(filters.command(["font", "fonts"]))
 async def style_buttons(c, m, cb=False):
